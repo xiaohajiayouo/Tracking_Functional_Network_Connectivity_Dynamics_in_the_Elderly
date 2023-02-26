@@ -1,5 +1,5 @@
 # Tracking_Functional_Network_Connectivity_Dynamics_in_the_Elderly
-This is code repository for the paper: "Tracking_Functional_Network_Connectivity_Dynamics_in_the_Elderly", mainly for the results visualizeiton  
+This is code repository for the paper: "Tracking_Functional_Network_Connectivity_Dynamics_in_the_Elderly", mainly for the results visualizaiton  
 
 ***There are 6 .py in this repo, each of which respectively corresponds to the 5 steps in the flowchart above***
 1. Visualize the static function network connectivity
