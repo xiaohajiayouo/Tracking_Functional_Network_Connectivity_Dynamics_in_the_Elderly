@@ -19,7 +19,17 @@ This is code repository for the paper: "Tracking_Functional_Network_Connectivity
 <em>The dynamic functional connectivity analysis pipeline.</em>
 <p> 
 
-
+If you find it's helpful for your work please cite our work below:
+```
+@article{wu2023tracking,
+  title={Tracking functional network connectivity dynamics in the elderly},
+  author={Wu, Kaichao and Jelfs, Beth and Mahmoud, Seedahmed S and Neville, Katrina and Fang, John Q},
+  journal={Frontiers in Neuroscience},
+  volume={17},
+  year={2023},
+  publisher={Frontiers Media SA}
+}
+```
 
 ```
 In step 1, the preprocessed and denoised functional imaging data were parcelled with the group ICA method for  recognition. 
