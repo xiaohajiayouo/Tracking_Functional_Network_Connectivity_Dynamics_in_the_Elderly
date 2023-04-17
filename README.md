@@ -19,7 +19,7 @@ This is code repository for the paper: "Tracking_Functional_Network_Connectivity
 <em>The dynamic functional connectivity analysis pipeline.</em>
 <p> 
 
-If you find it's helpful for your work please cite our work below:
+If you find it's helpful to your work please cite our work below:
 ```
 @article{wu2023tracking,
   title={Tracking functional network connectivity dynamics in the elderly},
